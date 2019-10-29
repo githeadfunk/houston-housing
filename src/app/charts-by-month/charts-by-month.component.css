@@ -1,0 +1,13 @@
+.chart {
+  display: block;
+  height:40vh;
+  width:40vw;
+  position: relative;
+  margin-top: 100px;
+}
+.my-tool-bar {
+  display: block;
+  position: fixed;
+  top: 0;
+  z-index: 100;
+}

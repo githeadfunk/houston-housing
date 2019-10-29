@@ -1,0 +1,2372 @@
+[
+ {
+   "year": 2000,
+   "month": 1,
+   "Total property sales": 2808,
+   "Total dollar volume": 408,
+   "Median price, single-family home": 109500,
+   "Days on market": 84,
+   "Active Listings": 23274,
+   "Months inventory": null
+ },
+ {
+   "year": 2000,
+   "month": 2,
+   "Total property sales": 3866,
+   "Total dollar volume": 553,
+   "Median price, single-family home": 114250,
+   "Days on market": 81,
+   "Active Listings": 23524,
+   "Months inventory": null
+ },
+ {
+   "year": 2000,
+   "month": 3,
+   "Total property sales": 5037,
+   "Total dollar volume": 729,
+   "Median price, single-family home": 112000,
+   "Days on market": 80,
+   "Active Listings": 23731,
+   "Months inventory": null
+ },
+ {
+   "year": 2000,
+   "month": 4,
+   "Total property sales": 4589,
+   "Total dollar volume": 668,
+   "Median price, single-family home": 115000,
+   "Days on market": 74,
+   "Active Listings": 24375,
+   "Months inventory": null
+ },
+ {
+   "year": 2000,
+   "month": 5,
+   "Total property sales": 5417,
+   "Total dollar volume": 820,
+   "Median price, single-family home": 116000,
+   "Days on market": 70,
+   "Active Listings": 25317,
+   "Months inventory": null
+ },
+ {
+   "year": 2000,
+   "month": 6,
+   "Total property sales": 5872,
+   "Total dollar volume": 903,
+   "Median price, single-family home": 122000,
+   "Days on market": 70,
+   "Active Listings": 25698,
+   "Months inventory": null
+ },
+ {
+   "year": 2000,
+   "month": 7,
+   "Total property sales": 5183,
+   "Total dollar volume": 779,
+   "Median price, single-family home": 121900,
+   "Days on market": 66,
+   "Active Listings": 26328,
+   "Months inventory": null
+ },
+ {
+   "year": 2000,
+   "month": 8,
+   "Total property sales": 5391,
+   "Total dollar volume": 828,
+   "Median price, single-family home": 119000,
+   "Days on market": 71,
+   "Active Listings": 26508,
+   "Months inventory": null
+ },
+ {
+   "year": 2000,
+   "month": 9,
+   "Total property sales": 4440,
+   "Total dollar volume": 678,
+   "Median price, single-family home": 119600,
+   "Days on market": 72,
+   "Active Listings": 26494,
+   "Months inventory": null
+ },
+ {
+   "year": 2000,
+   "month": 10,
+   "Total property sales": 4278,
+   "Total dollar volume": 632,
+   "Median price, single-family home": 116500,
+   "Days on market": 76,
+   "Active Listings": 26659,
+   "Months inventory": null
+ },
+ {
+   "year": 2000,
+   "month": 11,
+   "Total property sales": 3889,
+   "Total dollar volume": 581,
+   "Median price, single-family home": 119500,
+   "Days on market": 76,
+   "Active Listings": 26093,
+   "Months inventory": null
+ },
+ {
+   "year": 2000,
+   "month": 12,
+   "Total property sales": 4126,
+   "Total dollar volume": 646,
+   "Median price, single-family home": 123500,
+   "Days on market": 76,
+   "Active Listings": 24819,
+   "Months inventory": null
+ },
+ {
+   "year": 2001,
+   "month": 1,
+   "Total property sales": 2909,
+   "Total dollar volume": 420,
+   "Median price, single-family home": 115000,
+   "Days on market": 87,
+   "Active Listings": 25739,
+   "Months inventory": null
+ },
+ {
+   "year": 2001,
+   "month": 2,
+   "Total property sales": 3624,
+   "Total dollar volume": 546,
+   "Median price, single-family home": 118560,
+   "Days on market": 86,
+   "Active Listings": 26481,
+   "Months inventory": null
+ },
+ {
+   "year": 2001,
+   "month": 3,
+   "Total property sales": 4899,
+   "Total dollar volume": 749,
+   "Median price, single-family home": 120000,
+   "Days on market": 83,
+   "Active Listings": 27272,
+   "Months inventory": null
+ },
+ {
+   "year": 2001,
+   "month": 4,
+   "Total property sales": 4919,
+   "Total dollar volume": 765,
+   "Median price, single-family home": 125000,
+   "Days on market": 81,
+   "Active Listings": 28153,
+   "Months inventory": null
+ },
+ {
+   "year": 2001,
+   "month": 5,
+   "Total property sales": 5632,
+   "Total dollar volume": 867,
+   "Median price, single-family home": 124960,
+   "Days on market": 74,
+   "Active Listings": 28457,
+   "Months inventory": null
+ },
+ {
+   "year": 2001,
+   "month": 6,
+   "Total property sales": 5727,
+   "Total dollar volume": 931,
+   "Median price, single-family home": 131250,
+   "Days on market": 77,
+   "Active Listings": 28456,
+   "Months inventory": null
+ },
+ {
+   "year": 2001,
+   "month": 7,
+   "Total property sales": 5543,
+   "Total dollar volume": 905,
+   "Median price, single-family home": 131000,
+   "Days on market": 74,
+   "Active Listings": 28590,
+   "Months inventory": null
+ },
+ {
+   "year": 2001,
+   "month": 8,
+   "Total property sales": 5741,
+   "Total dollar volume": 905,
+   "Median price, single-family home": 129000,
+   "Days on market": 77,
+   "Active Listings": 27971,
+   "Months inventory": null
+ },
+ {
+   "year": 2001,
+   "month": 9,
+   "Total property sales": 4288,
+   "Total dollar volume": 644,
+   "Median price, single-family home": 123000,
+   "Days on market": 82,
+   "Active Listings": 29625,
+   "Months inventory": null
+ },
+ {
+   "year": 2001,
+   "month": 10,
+   "Total property sales": 4376,
+   "Total dollar volume": 642,
+   "Median price, single-family home": 131000,
+   "Days on market": 79,
+   "Active Listings": 29483,
+   "Months inventory": null
+ },
+ {
+   "year": 2001,
+   "month": 11,
+   "Total property sales": 4014,
+   "Total dollar volume": 600,
+   "Median price, single-family home": 123000,
+   "Days on market": 81,
+   "Active Listings": 28540,
+   "Months inventory": null
+ },
+ {
+   "year": 2001,
+   "month": 12,
+   "Total property sales": 4396,
+   "Total dollar volume": 706,
+   "Median price, single-family home": 130000,
+   "Days on market": 80,
+   "Active Listings": 28152,
+   "Months inventory": null
+ },
+ {
+   "year": 2002,
+   "month": 1,
+   "Total property sales": 3721,
+   "Total dollar volume": 540,
+   "Median price, single-family home": 124900,
+   "Days on market": 87,
+   "Active Listings": 27786,
+   "Months inventory": null
+ },
+ {
+   "year": 2002,
+   "month": 2,
+   "Total property sales": 4104,
+   "Total dollar volume": 624,
+   "Median price, single-family home": 126000,
+   "Days on market": 85,
+   "Active Listings": 28126,
+   "Months inventory": null
+ },
+ {
+   "year": 2002,
+   "month": 3,
+   "Total property sales": 4901,
+   "Total dollar volume": 777,
+   "Median price, single-family home": 129900,
+   "Days on market": 84,
+   "Active Listings": 28630,
+   "Months inventory": null
+ },
+ {
+   "year": 2002,
+   "month": 4,
+   "Total property sales": 5422,
+   "Total dollar volume": 765,
+   "Median price, single-family home": 129920,
+   "Days on market": 79,
+   "Active Listings": 29627,
+   "Months inventory": null
+ },
+ {
+   "year": 2002,
+   "month": 5,
+   "Total property sales": 6044,
+   "Total dollar volume": 990,
+   "Median price, single-family home": 133500,
+   "Days on market": 73,
+   "Active Listings": 30574,
+   "Months inventory": null
+ },
+ {
+   "year": 2002,
+   "month": 6,
+   "Total property sales": 5726,
+   "Total dollar volume": 971,
+   "Median price, single-family home": 135000,
+   "Days on market": 71,
+   "Active Listings": 28546,
+   "Months inventory": null
+ },
+ {
+   "year": 2002,
+   "month": 7,
+   "Total property sales": 5920,
+   "Total dollar volume": 972,
+   "Median price, single-family home": 135000,
+   "Days on market": 65,
+   "Active Listings": 32737,
+   "Months inventory": null
+ },
+ {
+   "year": 2002,
+   "month": 8,
+   "Total property sales": 5583,
+   "Total dollar volume": 901,
+   "Median price, single-family home": 134900,
+   "Days on market": null,
+   "Active Listings": 33430,
+   "Months inventory": null
+ },
+ {
+   "year": 2002,
+   "month": 9,
+   "Total property sales": 4615,
+   "Total dollar volume": 758,
+   "Median price, single-family home": 131040,
+   "Days on market": null,
+   "Active Listings": 33646,
+   "Months inventory": null
+ },
+ {
+   "year": 2002,
+   "month": 10,
+   "Total property sales": 4753,
+   "Total dollar volume": 766,
+   "Median price, single-family home": 129000,
+   "Days on market": null,
+   "Active Listings": 34027,
+   "Months inventory": null
+ },
+ {
+   "year": 2002,
+   "month": 11,
+   "Total property sales": 4009,
+   "Total dollar volume": 681,
+   "Median price, single-family home": 133000,
+   "Days on market": null,
+   "Active Listings": 33810,
+   "Months inventory": null
+ },
+ {
+   "year": 2002,
+   "month": 12,
+   "Total property sales": 4967,
+   "Total dollar volume": 886,
+   "Median price, single-family home": 131638,
+   "Days on market": null,
+   "Active Listings": 32347,
+   "Months inventory": null
+ },
+ {
+   "year": 2003,
+   "month": 1,
+   "Total property sales": 3743,
+   "Total dollar volume": 562,
+   "Median price, single-family home": 129000,
+   "Days on market": null,
+   "Active Listings": 34012,
+   "Months inventory": null
+ },
+ {
+   "year": 2003,
+   "month": 2,
+   "Total property sales": 4115,
+   "Total dollar volume": 623,
+   "Median price, single-family home": 128750,
+   "Days on market": null,
+   "Active Listings": 34598,
+   "Months inventory": null
+ },
+ {
+   "year": 2003,
+   "month": 3,
+   "Total property sales": 4973,
+   "Total dollar volume": 790,
+   "Median price, single-family home": 128500,
+   "Days on market": null,
+   "Active Listings": 35288,
+   "Months inventory": null
+ },
+ {
+   "year": 2003,
+   "month": 4,
+   "Total property sales": 5197,
+   "Total dollar volume": 836,
+   "Median price, single-family home": 133650,
+   "Days on market": null,
+   "Active Listings": 35854,
+   "Months inventory": null
+ },
+ {
+   "year": 2003,
+   "month": 5,
+   "Total property sales": 6074,
+   "Total dollar volume": 987,
+   "Median price, single-family home": 133160,
+   "Days on market": null,
+   "Active Listings": 36722,
+   "Months inventory": null
+ },
+ {
+   "year": 2003,
+   "month": 6,
+   "Total property sales": 6311,
+   "Total dollar volume": 1074,
+   "Median price, single-family home": 135000,
+   "Days on market": null,
+   "Active Listings": 37832,
+   "Months inventory": null
+ },
+ {
+   "year": 2003,
+   "month": 7,
+   "Total property sales": 6467,
+   "Total dollar volume": 1100,
+   "Median price, single-family home": 143000,
+   "Days on market": null,
+   "Active Listings": 38485,
+   "Months inventory": null
+ },
+ {
+   "year": 2003,
+   "month": 8,
+   "Total property sales": 6255,
+   "Total dollar volume": 1050,
+   "Median price, single-family home": 140000,
+   "Days on market": null,
+   "Active Listings": 38336,
+   "Months inventory": null
+ },
+ {
+   "year": 2003,
+   "month": 9,
+   "Total property sales": 5622,
+   "Total dollar volume": 930,
+   "Median price, single-family home": 134560,
+   "Days on market": null,
+   "Active Listings": 38884,
+   "Months inventory": null
+ },
+ {
+   "year": 2003,
+   "month": 10,
+   "Total property sales": 5426,
+   "Total dollar volume": 899,
+   "Median price, single-family home": 129900,
+   "Days on market": null,
+   "Active Listings": 38628,
+   "Months inventory": null
+ },
+ {
+   "year": 2003,
+   "month": 11,
+   "Total property sales": 4226,
+   "Total dollar volume": 702,
+   "Median price, single-family home": 132000,
+   "Days on market": null,
+   "Active Listings": 38102,
+   "Months inventory": null
+ },
+ {
+   "year": 2003,
+   "month": 12,
+   "Total property sales": 5815,
+   "Total dollar volume": 702,
+   "Median price, single-family home": 135000,
+   "Days on market": null,
+   "Active Listings": 35394,
+   "Months inventory": null
+ },
+ {
+   "year": 2004,
+   "month": 1,
+   "Total property sales": 3760,
+   "Total dollar volume": 577,
+   "Median price, single-family home": 126000,
+   "Days on market": null,
+   "Active Listings": 37272,
+   "Months inventory": 8.9
+ },
+ {
+   "year": 2004,
+   "month": 2,
+   "Total property sales": 4692,
+   "Total dollar volume": 764,
+   "Median price, single-family home": 130960,
+   "Days on market": null,
+   "Active Listings": 38017,
+   "Months inventory": 7.9
+ },
+ {
+   "year": 2004,
+   "month": 3,
+   "Total property sales": 6146,
+   "Total dollar volume": 999,
+   "Median price, single-family home": 130430,
+   "Days on market": null,
+   "Active Listings": 39662,
+   "Months inventory": 7.1
+ },
+ {
+   "year": 2004,
+   "month": 4,
+   "Total property sales": 6353,
+   "Total dollar volume": 1090,
+   "Median price, single-family home": 135000,
+   "Days on market": null,
+   "Active Listings": 40857,
+   "Months inventory": 6.3
+ },
+ {
+   "year": 2004,
+   "month": 5,
+   "Total property sales": 6482,
+   "Total dollar volume": 1140,
+   "Median price, single-family home": 138000,
+   "Days on market": null,
+   "Active Listings": 41789,
+   "Months inventory": 6.4
+ },
+ {
+   "year": 2004,
+   "month": 6,
+   "Total property sales": 7415,
+   "Total dollar volume": 1343,
+   "Median price, single-family home": 143120,
+   "Days on market": null,
+   "Active Listings": 42411,
+   "Months inventory": 6.3
+ },
+ {
+   "year": 2004,
+   "month": 7,
+   "Total property sales": 7009,
+   "Total dollar volume": 1206,
+   "Median price, single-family home": 143120,
+   "Days on market": null,
+   "Active Listings": 43158,
+   "Months inventory": 6.4
+ },
+ {
+   "year": 2004,
+   "month": 8,
+   "Total property sales": 6827,
+   "Total dollar volume": 1174,
+   "Median price, single-family home": 139000,
+   "Days on market": null,
+   "Active Listings": 43207,
+   "Months inventory": 6.4
+ },
+ {
+   "year": 2004,
+   "month": 9,
+   "Total property sales": 5896,
+   "Total dollar volume": 1026,
+   "Median price, single-family home": 134900,
+   "Days on market": null,
+   "Active Listings": 43122,
+   "Months inventory": 6.4
+ },
+ {
+   "year": 2004,
+   "month": 10,
+   "Total property sales": 5624,
+   "Total dollar volume": 916,
+   "Median price, single-family home": 133800,
+   "Days on market": null,
+   "Active Listings": 43243,
+   "Months inventory": 6.3
+ },
+ {
+   "year": 2004,
+   "month": 11,
+   "Total property sales": 5222,
+   "Total dollar volume": 889,
+   "Median price, single-family home": 132200,
+   "Days on market": null,
+   "Active Listings": 42120,
+   "Months inventory": 6
+ },
+ {
+   "year": 2004,
+   "month": 12,
+   "Total property sales": 6284,
+   "Total dollar volume": 1121,
+   "Median price, single-family home": 138000,
+   "Days on market": null,
+   "Active Listings": 39758,
+   "Months inventory": 5.6
+ },
+ {
+   "year": 2005,
+   "month": 1,
+   "Total property sales": 3855,
+   "Total dollar volume": 640,
+   "Median price, single-family home": 132120,
+   "Days on market": null,
+   "Active Listings": 41338,
+   "Months inventory": 5.8
+ },
+ {
+   "year": 2005,
+   "month": 2,
+   "Total property sales": 4925,
+   "Total dollar volume": 836,
+   "Median price, single-family home": 136880,
+   "Days on market": null,
+   "Active Listings": 42330,
+   "Months inventory": 5.9
+ },
+ {
+   "year": 2005,
+   "month": 3,
+   "Total property sales": 6483,
+   "Total dollar volume": 1102,
+   "Median price, single-family home": 135000,
+   "Days on market": null,
+   "Active Listings": 43152,
+   "Months inventory": 6
+ },
+ {
+   "year": 2005,
+   "month": 4,
+   "Total property sales": 6681,
+   "Total dollar volume": 1187,
+   "Median price, single-family home": 136980,
+   "Days on market": null,
+   "Active Listings": 44144,
+   "Months inventory": 6.2
+ },
+ {
+   "year": 2005,
+   "month": 5,
+   "Total property sales": 7690,
+   "Total dollar volume": 1397,
+   "Median price, single-family home": 144800,
+   "Days on market": null,
+   "Active Listings": 44983,
+   "Months inventory": 6.2
+ },
+ {
+   "year": 2005,
+   "month": 6,
+   "Total property sales": 7880,
+   "Total dollar volume": 1450,
+   "Median price, single-family home": 145670,
+   "Days on market": null,
+   "Active Listings": 45386,
+   "Months inventory": 6.2
+ },
+ {
+   "year": 2005,
+   "month": 7,
+   "Total property sales": 7680,
+   "Total dollar volume": 1430,
+   "Median price, single-family home": 145500,
+   "Days on market": null,
+   "Active Listings": 45361,
+   "Months inventory": 6.1
+ },
+ {
+   "year": 2005,
+   "month": 8,
+   "Total property sales": 8016,
+   "Total dollar volume": 1455,
+   "Median price, single-family home": 143900,
+   "Days on market": null,
+   "Active Listings": 44983,
+   "Months inventory": 6
+ },
+ {
+   "year": 2005,
+   "month": 9,
+   "Total property sales": 5977,
+   "Total dollar volume": 1094,
+   "Median price, single-family home": 145000,
+   "Days on market": null,
+   "Active Listings": 43767,
+   "Months inventory": 5.8
+ },
+ {
+   "year": 2005,
+   "month": 10,
+   "Total property sales": 6423,
+   "Total dollar volume": 1141,
+   "Median price, single-family home": 142000,
+   "Days on market": null,
+   "Active Listings": 43303,
+   "Months inventory": 5.7
+ },
+ {
+   "year": 2005,
+   "month": 11,
+   "Total property sales": 5810,
+   "Total dollar volume": 1060,
+   "Median price, single-family home": 145000,
+   "Days on market": null,
+   "Active Listings": 42247,
+   "Months inventory": 5.5
+ },
+ {
+   "year": 2005,
+   "month": 12,
+   "Total property sales": 6809,
+   "Total dollar volume": 1275,
+   "Median price, single-family home": 147000,
+   "Days on market": null,
+   "Active Listings": 39550,
+   "Months inventory": 5.1
+ },
+ {
+   "year": 2006,
+   "month": 1,
+   "Total property sales": 4584,
+   "Total dollar volume": 774,
+   "Median price, single-family home": 138110,
+   "Days on market": null,
+   "Active Listings": 40814,
+   "Months inventory": 5.2
+ },
+ {
+   "year": 2006,
+   "month": 2,
+   "Total property sales": 5792,
+   "Total dollar volume": 1066,
+   "Median price, single-family home": 142960,
+   "Days on market": null,
+   "Active Listings": 40857,
+   "Months inventory": 5.2
+ },
+ {
+   "year": 2006,
+   "month": 3,
+   "Total property sales": 8015,
+   "Total dollar volume": 1475,
+   "Median price, single-family home": 143310,
+   "Days on market": null,
+   "Active Listings": 41948,
+   "Months inventory": 5.3
+ },
+ {
+   "year": 2006,
+   "month": 4,
+   "Total property sales": 7053,
+   "Total dollar volume": 1302,
+   "Median price, single-family home": 147000,
+   "Days on market": null,
+   "Active Listings": 42480,
+   "Months inventory": 5.3
+ },
+ {
+   "year": 2006,
+   "month": 5,
+   "Total property sales": 8629,
+   "Total dollar volume": 1468,
+   "Median price, single-family home": 152000,
+   "Days on market": null,
+   "Active Listings": 43362,
+   "Months inventory": 5.4
+ },
+ {
+   "year": 2006,
+   "month": 6,
+   "Total property sales": 9166,
+   "Total dollar volume": 1861,
+   "Median price, single-family home": 156000,
+   "Days on market": null,
+   "Active Listings": 44442,
+   "Months inventory": 5.4
+ },
+ {
+   "year": 2006,
+   "month": 7,
+   "Total property sales": 7975,
+   "Total dollar volume": 1563,
+   "Median price, single-family home": 155890,
+   "Days on market": null,
+   "Active Listings": 45613,
+   "Months inventory": 5.6
+ },
+ {
+   "year": 2006,
+   "month": 8,
+   "Total property sales": 8451,
+   "Total dollar volume": 1632,
+   "Median price, single-family home": 152000,
+   "Days on market": null,
+   "Active Listings": 46201,
+   "Months inventory": 5.6
+ },
+ {
+   "year": 2006,
+   "month": 9,
+   "Total property sales": 7163,
+   "Total dollar volume": 1371,
+   "Median price, single-family home": 150000,
+   "Days on market": null,
+   "Active Listings": 46500,
+   "Months inventory": 5.5
+ },
+ {
+   "year": 2006,
+   "month": 10,
+   "Total property sales": 6792,
+   "Total dollar volume": 1250,
+   "Median price, single-family home": 146000,
+   "Days on market": null,
+   "Active Listings": 46673,
+   "Months inventory": 5.5
+ },
+ {
+   "year": 2006,
+   "month": 11,
+   "Total property sales": 6373,
+   "Total dollar volume": 1195,
+   "Median price, single-family home": 147000,
+   "Days on market": null,
+   "Active Listings": 46071,
+   "Months inventory": 5.3
+ },
+ {
+   "year": 2006,
+   "month": 12,
+   "Total property sales": 7136,
+   "Total dollar volume": 1437,
+   "Median price, single-family home": 150000,
+   "Days on market": null,
+   "Active Listings": 43438,
+   "Months inventory": 5
+ },
+ {
+   "year": 2007,
+   "month": 1,
+   "Total property sales": 4994,
+   "Total dollar volume": 872,
+   "Median price, single-family home": 142000,
+   "Days on market": null,
+   "Active Listings": 44685,
+   "Months inventory": 5.1
+ },
+ {
+   "year": 2007,
+   "month": 2,
+   "Total property sales": 5991,
+   "Total dollar volume": 1130,
+   "Median price, single-family home": 146000,
+   "Days on market": null,
+   "Active Listings": 45466,
+   "Months inventory": 5.2
+ },
+ {
+   "year": 2007,
+   "month": 3,
+   "Total property sales": 7267,
+   "Total dollar volume": 1442,
+   "Median price, single-family home": 150590,
+   "Days on market": null,
+   "Active Listings": 47872,
+   "Months inventory": 5.5
+ },
+ {
+   "year": 2007,
+   "month": 4,
+   "Total property sales": 7275,
+   "Total dollar volume": 1421,
+   "Median price, single-family home": 150000,
+   "Days on market": null,
+   "Active Listings": 49946,
+   "Months inventory": 5.8
+ },
+ {
+   "year": 2007,
+   "month": 5,
+   "Total property sales": 8532,
+   "Total dollar volume": 1744,
+   "Median price, single-family home": 155000,
+   "Days on market": null,
+   "Active Listings": 50376,
+   "Months inventory": 6
+ },
+ {
+   "year": 2007,
+   "month": 6,
+   "Total property sales": 8509,
+   "Total dollar volume": 1810,
+   "Median price, single-family home": 160000,
+   "Days on market": null,
+   "Active Listings": 52718,
+   "Months inventory": 6.2
+ },
+ {
+   "year": 2007,
+   "month": 7,
+   "Total property sales": 8114,
+   "Total dollar volume": 1652,
+   "Median price, single-family home": 155100,
+   "Days on market": null,
+   "Active Listings": 52976,
+   "Months inventory": 6.2
+ },
+ {
+   "year": 2007,
+   "month": 8,
+   "Total property sales": 8352,
+   "Total dollar volume": 1725,
+   "Median price, single-family home": 159000,
+   "Days on market": null,
+   "Active Listings": 53468,
+   "Months inventory": 6.2
+ },
+ {
+   "year": 2007,
+   "month": 9,
+   "Total property sales": 5984,
+   "Total dollar volume": 1209,
+   "Median price, single-family home": 150500,
+   "Days on market": null,
+   "Active Listings": 53718,
+   "Months inventory": 6.3
+ },
+ {
+   "year": 2007,
+   "month": 10,
+   "Total property sales": 6244,
+   "Total dollar volume": 1211,
+   "Median price, single-family home": 145390,
+   "Days on market": null,
+   "Active Listings": 53407,
+   "Months inventory": 6.2
+ },
+ {
+   "year": 2007,
+   "month": 11,
+   "Total property sales": 5772,
+   "Total dollar volume": 1145,
+   "Median price, single-family home": 150000,
+   "Days on market": null,
+   "Active Listings": 52217,
+   "Months inventory": 6.1
+ },
+ {
+   "year": 2007,
+   "month": 12,
+   "Total property sales": 5957,
+   "Total dollar volume": 1251,
+   "Median price, single-family home": 153630,
+   "Days on market": null,
+   "Active Listings": 49566,
+   "Months inventory": 5.9
+ },
+ {
+   "year": 2008,
+   "month": 1,
+   "Total property sales": 4353,
+   "Total dollar volume": 811,
+   "Median price, single-family home": 139000,
+   "Days on market": null,
+   "Active Listings": 50709,
+   "Months inventory": 6
+ },
+ {
+   "year": 2008,
+   "month": 2,
+   "Total property sales": 5266,
+   "Total dollar volume": 1051,
+   "Median price, single-family home": 151430,
+   "Days on market": null,
+   "Active Listings": 51308,
+   "Months inventory": 6.1
+ },
+ {
+   "year": 2008,
+   "month": 3,
+   "Total property sales": 6098,
+   "Total dollar volume": 1214,
+   "Median price, single-family home": 151100,
+   "Days on market": null,
+   "Active Listings": 52270,
+   "Months inventory": 6.3
+ },
+ {
+   "year": 2008,
+   "month": 4,
+   "Total property sales": 6432,
+   "Total dollar volume": 1291,
+   "Median price, single-family home": 150000,
+   "Days on market": null,
+   "Active Listings": 53080,
+   "Months inventory": 6.4
+ },
+ {
+   "year": 2008,
+   "month": 5,
+   "Total property sales": 7110,
+   "Total dollar volume": 1487,
+   "Median price, single-family home": 155000,
+   "Days on market": null,
+   "Active Listings": 53305,
+   "Months inventory": 6.6
+ },
+ {
+   "year": 2008,
+   "month": 6,
+   "Total property sales": 7237,
+   "Total dollar volume": 1610,
+   "Median price, single-family home": 162000,
+   "Days on market": null,
+   "Active Listings": 53792,
+   "Months inventory": 6.7
+ },
+ {
+   "year": 2008,
+   "month": 7,
+   "Total property sales": 7052,
+   "Total dollar volume": 1533,
+   "Median price, single-family home": 161370,
+   "Days on market": null,
+   "Active Listings": 53779,
+   "Months inventory": 6.7
+ },
+ {
+   "year": 2008,
+   "month": 8,
+   "Total property sales": 6641,
+   "Total dollar volume": 1434,
+   "Median price, single-family home": 160000,
+   "Days on market": null,
+   "Active Listings": 52831,
+   "Months inventory": 6.7
+ },
+ {
+   "year": 2008,
+   "month": 9,
+   "Total property sales": 4189,
+   "Total dollar volume": 857,
+   "Median price, single-family home": 157500,
+   "Days on market": null,
+   "Active Listings": 50155,
+   "Months inventory": 6.4
+ },
+ {
+   "year": 2008,
+   "month": 10,
+   "Total property sales": 4962,
+   "Total dollar volume": 943,
+   "Median price, single-family home": 142000,
+   "Days on market": null,
+   "Active Listings": 49016,
+   "Months inventory": 6.3
+ },
+ {
+   "year": 2008,
+   "month": 11,
+   "Total property sales": 3906,
+   "Total dollar volume": 719,
+   "Median price, single-family home": 142000,
+   "Days on market": null,
+   "Active Listings": 49016,
+   "Months inventory": 6.3
+ },
+ {
+   "year": 2008,
+   "month": 12,
+   "Total property sales": 5126,
+   "Total dollar volume": 960,
+   "Median price, single-family home": 145000,
+   "Days on market": null,
+   "Active Listings": 43748,
+   "Months inventory": 5.7
+ },
+ {
+   "year": 2009,
+   "month": 1,
+   "Total property sales": 3240,
+   "Total dollar volume": 530,
+   "Median price, single-family home": 127850,
+   "Days on market": null,
+   "Active Listings": 44178,
+   "Months inventory": 5.7
+ },
+ {
+   "year": 2009,
+   "month": 2,
+   "Total property sales": 3995,
+   "Total dollar volume": 709,
+   "Median price, single-family home": 138970,
+   "Days on market": null,
+   "Active Listings": 44747,
+   "Months inventory": 5.9
+ },
+ {
+   "year": 2009,
+   "month": 3,
+   "Total property sales": 5022,
+   "Total dollar volume": 940,
+   "Median price, single-family home": 145000,
+   "Days on market": null,
+   "Active Listings": 45768,
+   "Months inventory": 6.1
+ },
+ {
+   "year": 2009,
+   "month": 4,
+   "Total property sales": 4898,
+   "Total dollar volume": 920,
+   "Median price, single-family home": 149050,
+   "Days on market": null,
+   "Active Listings": 45269,
+   "Months inventory": 6.1
+ },
+ {
+   "year": 2009,
+   "month": 5,
+   "Total property sales": 5539,
+   "Total dollar volume": 1140,
+   "Median price, single-family home": 157450,
+   "Days on market": null,
+   "Active Listings": 45282,
+   "Months inventory": 6.2
+ },
+ {
+   "year": 2009,
+   "month": 6,
+   "Total property sales": 6306,
+   "Total dollar volume": 1344,
+   "Median price, single-family home": 164500,
+   "Days on market": null,
+   "Active Listings": 45989,
+   "Months inventory": 6.4
+ },
+ {
+   "year": 2009,
+   "month": 7,
+   "Total property sales": 6744,
+   "Total dollar volume": 1437,
+   "Median price, single-family home": 163000,
+   "Days on market": null,
+   "Active Listings": 46598,
+   "Months inventory": 6.5
+ },
+ {
+   "year": 2009,
+   "month": 8,
+   "Total property sales": 5904,
+   "Total dollar volume": 1079,
+   "Median price, single-family home": 160880,
+   "Days on market": null,
+   "Active Listings": 46023,
+   "Months inventory": 6.5
+ },
+ {
+   "year": 2009,
+   "month": 9,
+   "Total property sales": 5654,
+   "Total dollar volume": 1102,
+   "Median price, single-family home": 156200,
+   "Days on market": null,
+   "Active Listings": 45520,
+   "Months inventory": 6.2
+ },
+ {
+   "year": 2009,
+   "month": 10,
+   "Total property sales": 5716,
+   "Total dollar volume": 1092,
+   "Median price, single-family home": 149000,
+   "Days on market": null,
+   "Active Listings": 45424,
+   "Months inventory": 6.1
+ },
+ {
+   "year": 2009,
+   "month": 11,
+   "Total property sales": 5353,
+   "Total dollar volume": 1031,
+   "Median price, single-family home": 150000,
+   "Days on market": null,
+   "Active Listings": 45452,
+   "Months inventory": 6
+ },
+ {
+   "year": 2009,
+   "month": 12,
+   "Total property sales": 5267,
+   "Total dollar volume": 1102,
+   "Median price, single-family home": 152550,
+   "Days on market": null,
+   "Active Listings": 43185,
+   "Months inventory": 5.8
+ },
+ {
+   "year": 2010,
+   "month": 1,
+   "Total property sales": 3049,
+   "Total dollar volume": 565,
+   "Median price, single-family home": 144500,
+   "Days on market": null,
+   "Active Listings": 45210,
+   "Months inventory": 6.1
+ },
+ {
+   "year": 2010,
+   "month": 2,
+   "Total property sales": 3843,
+   "Total dollar volume": 747,
+   "Median price, single-family home": 147000,
+   "Days on market": null,
+   "Active Listings": 46658,
+   "Months inventory": 6.3
+ },
+ {
+   "year": 2010,
+   "month": 3,
+   "Total property sales": 5758,
+   "Total dollar volume": 1166,
+   "Median price, single-family home": 154250,
+   "Days on market": null,
+   "Active Listings": 49030,
+   "Months inventory": 6.7
+ },
+ {
+   "year": 2010,
+   "month": 4,
+   "Total property sales": 6200,
+   "Total dollar volume": 1234,
+   "Median price, single-family home": 153500,
+   "Days on market": null,
+   "Active Listings": 48869,
+   "Months inventory": 6.5
+ },
+ {
+   "year": 2010,
+   "month": 5,
+   "Total property sales": 6659,
+   "Total dollar volume": 1345,
+   "Median price, single-family home": 154780,
+   "Days on market": null,
+   "Active Listings": 51185,
+   "Months inventory": 6.8
+ },
+ {
+   "year": 2010,
+   "month": 6,
+   "Total property sales": 6593,
+   "Total dollar volume": 1413,
+   "Median price, single-family home": 159700,
+   "Days on market": null,
+   "Active Listings": 53934,
+   "Months inventory": 7.3
+ },
+ {
+   "year": 2010,
+   "month": 7,
+   "Total property sales": 5056,
+   "Total dollar volume": 1078,
+   "Median price, single-family home": 160880,
+   "Days on market": null,
+   "Active Listings": 55247,
+   "Months inventory": 7.7
+ },
+ {
+   "year": 2010,
+   "month": 8,
+   "Total property sales": 4977,
+   "Total dollar volume": 1028,
+   "Median price, single-family home": 159000,
+   "Days on market": null,
+   "Active Listings": 55079,
+   "Months inventory": 7.8
+ },
+ {
+   "year": 2010,
+   "month": 9,
+   "Total property sales": 4648,
+   "Total dollar volume": 958,
+   "Median price, single-family home": 156250,
+   "Days on market": null,
+   "Active Listings": 54027,
+   "Months inventory": 7.7
+ },
+ {
+   "year": 2010,
+   "month": 10,
+   "Total property sales": 4404,
+   "Total dollar volume": 873,
+   "Median price, single-family home": 150000,
+   "Days on market": null,
+   "Active Listings": 53039,
+   "Months inventory": 7.7
+ },
+ {
+   "year": 2010,
+   "month": 11,
+   "Total property sales": 4200,
+   "Total dollar volume": 905,
+   "Median price, single-family home": 152500,
+   "Days on market": null,
+   "Active Listings": 51875,
+   "Months inventory": 7.6
+ },
+ {
+   "year": 2010,
+   "month": 12,
+   "Total property sales": 5131,
+   "Total dollar volume": 1087,
+   "Median price, single-family home": 157500,
+   "Days on market": null,
+   "Active Listings": 49005,
+   "Months inventory": 7.2
+ },
+ {
+   "year": 2011,
+   "month": 1,
+   "Total property sales": 3413,
+   "Total dollar volume": 642,
+   "Median price, single-family home": 139000,
+   "Days on market": null,
+   "Active Listings": 49253,
+   "Months inventory": 7.3
+ },
+ {
+   "year": 2011,
+   "month": 2,
+   "Total property sales": 3906,
+   "Total dollar volume": 790,
+   "Median price, single-family home": 151900,
+   "Days on market": null,
+   "Active Listings": 49839,
+   "Months inventory": 7.3
+ },
+ {
+   "year": 2011,
+   "month": 3,
+   "Total property sales": 5509,
+   "Total dollar volume": 1137,
+   "Median price, single-family home": 150900,
+   "Days on market": null,
+   "Active Listings": 51091,
+   "Months inventory": 7.6
+ },
+ {
+   "year": 2011,
+   "month": 4,
+   "Total property sales": 5534,
+   "Total dollar volume": 1078,
+   "Median price, single-family home": 148000,
+   "Days on market": null,
+   "Active Listings": 51694,
+   "Months inventory": 7.8
+ },
+ {
+   "year": 2011,
+   "month": 5,
+   "Total property sales": 5948,
+   "Total dollar volume": 1247,
+   "Median price, single-family home": 157900,
+   "Days on market": null,
+   "Active Listings": 51652,
+   "Months inventory": 8
+ },
+ {
+   "year": 2011,
+   "month": 6,
+   "Total property sales": 6520,
+   "Total dollar volume": 1433,
+   "Median price, single-family home": 161000,
+   "Days on market": null,
+   "Active Listings": 51342,
+   "Months inventory": 7.9
+ },
+ {
+   "year": 2011,
+   "month": 7,
+   "Total property sales": 5962,
+   "Total dollar volume": 1270,
+   "Median price, single-family home": 160000,
+   "Days on market": null,
+   "Active Listings": 50022,
+   "Months inventory": 7.6
+ },
+ {
+   "year": 2011,
+   "month": 8,
+   "Total property sales": 6524,
+   "Total dollar volume": 1345,
+   "Median price, single-family home": 159000,
+   "Days on market": null,
+   "Active Listings": 48752,
+   "Months inventory": 7.1
+ },
+ {
+   "year": 2011,
+   "month": 9,
+   "Total property sales": 5469,
+   "Total dollar volume": 1117,
+   "Median price, single-family home": 157500,
+   "Days on market": null,
+   "Active Listings": 47812,
+   "Months inventory": 6.8
+ },
+ {
+   "year": 2011,
+   "month": 10,
+   "Total property sales": 4815,
+   "Total dollar volume": 961,
+   "Median price, single-family home": 150000,
+   "Days on market": null,
+   "Active Listings": 46674,
+   "Months inventory": 6.6
+ },
+ {
+   "year": 2011,
+   "month": 11,
+   "Total property sales": 4676,
+   "Total dollar volume": 942,
+   "Median price, single-family home": 154950,
+   "Days on market": null,
+   "Active Listings": 45113,
+   "Months inventory": 6.2
+ },
+ {
+   "year": 2011,
+   "month": 12,
+   "Total property sales": 5460,
+   "Total dollar volume": 1159,
+   "Median price, single-family home": 160000,
+   "Days on market": null,
+   "Active Listings": 42083,
+   "Months inventory": 5.8
+ },
+ {
+   "year": 2012,
+   "month": 1,
+   "Total property sales": 3632,
+   "Total dollar volume": 683,
+   "Median price, single-family home": 139900,
+   "Days on market": null,
+   "Active Listings": 42067,
+   "Months inventory": 5.7
+ },
+ {
+   "year": 2012,
+   "month": 2,
+   "Total property sales": 4561,
+   "Total dollar volume": 894,
+   "Median price, single-family home": 149900,
+   "Days on market": null,
+   "Active Listings": 42206,
+   "Months inventory": 5.6
+ },
+ {
+   "year": 2012,
+   "month": 3,
+   "Total property sales": 5908,
+   "Total dollar volume": 1293,
+   "Median price, single-family home": 161750,
+   "Days on market": null,
+   "Active Listings": 41997,
+   "Months inventory": 5.6
+ },
+ {
+   "year": 2012,
+   "month": 4,
+   "Total property sales": 6156,
+   "Total dollar volume": 1313,
+   "Median price, single-family home": 160120,
+   "Days on market": null,
+   "Active Listings": 42525,
+   "Months inventory": 5.7
+ },
+ {
+   "year": 2012,
+   "month": 5,
+   "Total property sales": 7327,
+   "Total dollar volume": 1665,
+   "Median price, single-family home": 168000,
+   "Days on market": null,
+   "Active Listings": 42280,
+   "Months inventory": 5.5
+ },
+ {
+   "year": 2012,
+   "month": 6,
+   "Total property sales": 7575,
+   "Total dollar volume": 1719,
+   "Median price, single-family home": 171000,
+   "Days on market": null,
+   "Active Listings": 42207,
+   "Months inventory": 5.5
+ },
+ {
+   "year": 2012,
+   "month": 7,
+   "Total property sales": 7363,
+   "Total dollar volume": 1629,
+   "Median price, single-family home": 170000,
+   "Days on market": null,
+   "Active Listings": 41860,
+   "Months inventory": 5.3
+ },
+ {
+   "year": 2012,
+   "month": 8,
+   "Total property sales": 7814,
+   "Total dollar volume": 1681,
+   "Median price, single-family home": 165000,
+   "Days on market": null,
+   "Active Listings": 40504,
+   "Months inventory": 4.9
+ },
+ {
+   "year": 2012,
+   "month": 9,
+   "Total property sales": 5943,
+   "Total dollar volume": 1262,
+   "Median price, single-family home": 165000,
+   "Days on market": null,
+   "Active Listings": 39319,
+   "Months inventory": 4.7
+ },
+ {
+   "year": 2012,
+   "month": 10,
+   "Total property sales": 6457,
+   "Total dollar volume": 1391,
+   "Median price, single-family home": 163000,
+   "Days on market": null,
+   "Active Listings": 37909,
+   "Months inventory": 4.4
+ },
+ {
+   "year": 2012,
+   "month": 11,
+   "Total property sales": 5891,
+   "Total dollar volume": 1308,
+   "Median price, single-family home": 167000,
+   "Days on market": null,
+   "Active Listings": 36539,
+   "Months inventory": 4.1
+ },
+ {
+   "year": 2012,
+   "month": 12,
+   "Total property sales": 6055,
+   "Total dollar volume": 1433,
+   "Median price, single-family home": 172500,
+   "Days on market": null,
+   "Active Listings": 33554,
+   "Months inventory": 3.7
+ },
+ {
+   "year": 2013,
+   "month": 1,
+   "Total property sales": 4680,
+   "Total dollar volume": 908,
+   "Median price, single-family home": 150000,
+   "Days on market": null,
+   "Active Listings": 33532,
+   "Months inventory": 3.6
+ },
+ {
+   "year": 2013,
+   "month": 2,
+   "Total property sales": 5324,
+   "Total dollar volume": 1121,
+   "Median price, single-family home": 161700,
+   "Days on market": null,
+   "Active Listings": 33361,
+   "Months inventory": 3.6
+ },
+ {
+   "year": 2013,
+   "month": 3,
+   "Total property sales": 7006,
+   "Total dollar volume": 1578,
+   "Median price, single-family home": 172000,
+   "Days on market": null,
+   "Active Listings": 32704,
+   "Months inventory": 3.5
+ },
+ {
+   "year": 2013,
+   "month": 4,
+   "Total property sales": 7883,
+   "Total dollar volume": 1901,
+   "Median price, single-family home": 184900,
+   "Days on market": null,
+   "Active Listings": 32498,
+   "Months inventory": 3.4
+ },
+ {
+   "year": 2013,
+   "month": 5,
+   "Total property sales": 9245,
+   "Total dollar volume": 2249,
+   "Median price, single-family home": 180000,
+   "Days on market": null,
+   "Active Listings": 32214,
+   "Months inventory": 3.3
+ },
+ {
+   "year": 2013,
+   "month": 6,
+   "Total property sales": 8614,
+   "Total dollar volume": 2181,
+   "Median price, single-family home": 192000,
+   "Days on market": null,
+   "Active Listings": 32518,
+   "Months inventory": 3.3
+ },
+ {
+   "year": 2013,
+   "month": 7,
+   "Total property sales": 9186,
+   "Total dollar volume": 2290,
+   "Median price, single-family home": 187760,
+   "Days on market": null,
+   "Active Listings": 32966,
+   "Months inventory": 3.4
+ },
+ {
+   "year": 2013,
+   "month": 8,
+   "Total property sales": 8908,
+   "Total dollar volume": 2225,
+   "Median price, single-family home": 186200,
+   "Days on market": null,
+   "Active Listings": 32834,
+   "Months inventory": 3.3
+ },
+ {
+   "year": 2013,
+   "month": 9,
+   "Total property sales": 7466,
+   "Total dollar volume": 1755,
+   "Median price, single-family home": 181570,
+   "Days on market": null,
+   "Active Listings": 32457,
+   "Months inventory": 3.2
+ },
+ {
+   "year": 2013,
+   "month": 10,
+   "Total property sales": 7322,
+   "Total dollar volume": 1690,
+   "Median price, single-family home": 177500,
+   "Days on market": null,
+   "Active Listings": 31638,
+   "Months inventory": 3.1
+ },
+ {
+   "year": 2013,
+   "month": 11,
+   "Total property sales": 6180,
+   "Total dollar volume": 1463,
+   "Median price, single-family home": 181000,
+   "Days on market": null,
+   "Active Listings": 30341,
+   "Months inventory": 2.9
+ },
+ {
+   "year": 2013,
+   "month": 12,
+   "Total property sales": 6987,
+   "Total dollar volume": 1774,
+   "Median price, single-family home": 188500,
+   "Days on market": null,
+   "Active Listings": 28147,
+   "Months inventory": 2.6
+ },
+ {
+   "year": 2014,
+   "month": 1,
+   "Total property sales": 4929,
+   "Total dollar volume": 1147,
+   "Median price, single-family home": 177000,
+   "Days on market": null,
+   "Active Listings": 28211,
+   "Months inventory": 2.6
+ },
+ {
+   "year": 2014,
+   "month": 2,
+   "Total property sales": 5810,
+   "Total dollar volume": 1372,
+   "Median price, single-family home": 181500,
+   "Days on market": null,
+   "Active Listings": 27798,
+   "Months inventory": 2.6
+ },
+ {
+   "year": 2014,
+   "month": 3,
+   "Total property sales": 7277,
+   "Total dollar volume": 1809,
+   "Median price, single-family home": 189900,
+   "Days on market": null,
+   "Active Listings": 28085,
+   "Months inventory": 2.6
+ },
+ {
+   "year": 2014,
+   "month": 4,
+   "Total property sales": 7857,
+   "Total dollar volume": 1996,
+   "Median price, single-family home": 195000,
+   "Days on market": null,
+   "Active Listings": 28114,
+   "Months inventory": 2.6
+ },
+ {
+   "year": 2014,
+   "month": 5,
+   "Total property sales": 8688,
+   "Total dollar volume": 2301,
+   "Median price, single-family home": 200000,
+   "Days on market": null,
+   "Active Listings": 28712,
+   "Months inventory": 2.8
+ },
+ {
+   "year": 2014,
+   "month": 6,
+   "Total property sales": 9099,
+   "Total dollar volume": 2451,
+   "Median price, single-family home": 214000,
+   "Days on market": null,
+   "Active Listings": 29513,
+   "Months inventory": 2.9
+ },
+ {
+   "year": 2014,
+   "month": 7,
+   "Total property sales": 9250,
+   "Total dollar volume": 2447,
+   "Median price, single-family home": 202000,
+   "Days on market": null,
+   "Active Listings": 29808,
+   "Months inventory": 3
+ },
+ {
+   "year": 2014,
+   "month": 8,
+   "Total property sales": 8953,
+   "Total dollar volume": 2332,
+   "Median price, single-family home": 206000,
+   "Days on market": null,
+   "Active Listings": 29574,
+   "Months inventory": 3
+ },
+ {
+   "year": 2014,
+   "month": 9,
+   "Total property sales": 7879,
+   "Total dollar volume": 2005,
+   "Median price, single-family home": 196000,
+   "Days on market": null,
+   "Active Listings": 28946,
+   "Months inventory": 2.9
+ },
+ {
+   "year": 2014,
+   "month": 10,
+   "Total property sales": 8106,
+   "Total dollar volume": 2016,
+   "Median price, single-family home": 192000,
+   "Days on market": null,
+   "Active Listings": 28333,
+   "Months inventory": 2.8
+ },
+ {
+   "year": 2014,
+   "month": 11,
+   "Total property sales": 6212,
+   "Total dollar volume": 1606,
+   "Median price, single-family home": 194800,
+   "Days on market": null,
+   "Active Listings": 27374,
+   "Months inventory": 2.7
+ },
+ {
+   "year": 2014,
+   "month": 12,
+   "Total property sales": 7695,
+   "Total dollar volume": 2066,
+   "Median price, single-family home": 209590,
+   "Days on market": null,
+   "Active Listings": 25821,
+   "Months inventory": 2.5
+ },
+ {
+   "year": 2015,
+   "month": 1,
+   "Total property sales": 4874,
+   "Total dollar volume": 1201,
+   "Median price, single-family home": 190000,
+   "Days on market": null,
+   "Active Listings": 26556,
+   "Months inventory": 2.6
+ },
+ {
+   "year": 2015,
+   "month": 2,
+   "Total property sales": 5564,
+   "Total dollar volume": 1369,
+   "Median price, single-family home": 199400,
+   "Days on market": null,
+   "Active Listings": 27990,
+   "Months inventory": 2.7
+ },
+ {
+   "year": 2015,
+   "month": 3,
+   "Total property sales": 7564,
+   "Total dollar volume": 1972,
+   "Median price, single-family home": 208000,
+   "Days on market": null,
+   "Active Listings": 28507,
+   "Months inventory": 2.8
+ },
+ {
+   "year": 2015,
+   "month": 4,
+   "Total property sales": 7907,
+   "Total dollar volume": 2096,
+   "Median price, single-family home": 209790,
+   "Days on market": null,
+   "Active Listings": 29486,
+   "Months inventory": 2.9
+ },
+ {
+   "year": 2015,
+   "month": 5,
+   "Total property sales": 8278,
+   "Total dollar volume": 2273,
+   "Median price, single-family home": 223000,
+   "Days on market": null,
+   "Active Listings": 30550,
+   "Months inventory": 3.1
+ },
+ {
+   "year": 2015,
+   "month": 6,
+   "Total property sales": 9480,
+   "Total dollar volume": 2712,
+   "Median price, single-family home": 225000,
+   "Days on market": null,
+   "Active Listings": 31963,
+   "Months inventory": 3.2
+ },
+ {
+   "year": 2015,
+   "month": 7,
+   "Total property sales": 9653,
+   "Total dollar volume": 2690,
+   "Median price, single-family home": 220000,
+   "Days on market": null,
+   "Active Listings": 33679,
+   "Months inventory": 3.4
+ },
+ {
+   "year": 2015,
+   "month": 8,
+   "Total property sales": 8836,
+   "Total dollar volume": 2354,
+   "Median price, single-family home": 215100,
+   "Days on market": null,
+   "Active Listings": 34089,
+   "Months inventory": 3.5
+ },
+ {
+   "year": 2015,
+   "month": 9,
+   "Total property sales": 8024,
+   "Total dollar volume": 2078,
+   "Median price, single-family home": 208000,
+   "Days on market": null,
+   "Active Listings": 34041,
+   "Months inventory": 3.5
+ },
+ {
+   "year": 2015,
+   "month": 10,
+   "Total property sales": 7026,
+   "Total dollar volume": 1823,
+   "Median price, single-family home": 205000,
+   "Days on market": null,
+   "Active Listings": 33692,
+   "Months inventory": 3.5
+ },
+ {
+   "year": 2015,
+   "month": 11,
+   "Total property sales": 5623,
+   "Total dollar volume": 1401,
+   "Median price, single-family home": 200000,
+   "Days on market": null,
+   "Active Listings": 33272,
+   "Months inventory": 3.4
+ },
+ {
+   "year": 2015,
+   "month": 12,
+   "Total property sales": 6988,
+   "Total dollar volume": 1863,
+   "Median price, single-family home": 216000,
+   "Days on market": null,
+   "Active Listings": 30661,
+   "Months inventory": 3.2
+ },
+ {
+   "year": 2016,
+   "month": 1,
+   "Total property sales": 4965,
+   "Total dollar volume": 1227,
+   "Median price, single-family home": 200000,
+   "Days on market": null,
+   "Active Listings": 32260,
+   "Months inventory": 3.3
+ },
+ {
+   "year": 2016,
+   "month": 2,
+   "Total property sales": 5548,
+   "Total dollar volume": 1380,
+   "Median price, single-family home": 200000,
+   "Days on market": null,
+   "Active Listings": 23914,
+   "Months inventory": 3.4
+ },
+ {
+   "year": 2016,
+   "month": 3,
+   "Total property sales": 7375,
+   "Total dollar volume": 1894,
+   "Median price, single-family home": 215000,
+   "Days on market": null,
+   "Active Listings": 34504,
+   "Months inventory": 3.6
+ },
+ {
+   "year": 2016,
+   "month": 4,
+   "Total property sales": 7583,
+   "Total dollar volume": 2016,
+   "Median price, single-family home": 217000,
+   "Days on market": null,
+   "Active Listings": 34402,
+   "Months inventory": 3.6
+ },
+ {
+   "year": 2016,
+   "month": 5,
+   "Total property sales": 8703,
+   "Total dollar volume": 2392,
+   "Median price, single-family home": 225000,
+   "Days on market": null,
+   "Active Listings": 35416,
+   "Months inventory": 3.6
+ },
+ {
+   "year": 2016,
+   "month": 6,
+   "Total property sales": 9139,
+   "Total dollar volume": 2591,
+   "Median price, single-family home": 230538,
+   "Days on market": null,
+   "Active Listings": 35857,
+   "Months inventory": 3.7
+ },
+ {
+   "year": 2016,
+   "month": 7,
+   "Total property sales": 8571,
+   "Total dollar volume": 2370,
+   "Median price, single-family home": 230000,
+   "Days on market": null,
+   "Active Listings": 37952,
+   "Months inventory": 4
+ },
+ {
+   "year": 2016,
+   "month": 8,
+   "Total property sales": 9319,
+   "Total dollar volume": 2567,
+   "Median price, single-family home": 225000,
+   "Days on market": null,
+   "Active Listings": 38056,
+   "Months inventory": 4
+ },
+ {
+   "year": 2016,
+   "month": 9,
+   "Total property sales": 7893,
+   "Total dollar volume": 2081,
+   "Median price, single-family home": 219990,
+   "Days on market": null,
+   "Active Listings": 37955,
+   "Months inventory": 3.9
+ },
+ {
+   "year": 2016,
+   "month": 10,
+   "Total property sales": 7120,
+   "Total dollar volume": 1863,
+   "Median price, single-family home": 218000,
+   "Days on market": null,
+   "Active Listings": 37111,
+   "Months inventory": 3.8
+ },
+ {
+   "year": 2016,
+   "month": 11,
+   "Total property sales": 6890,
+   "Total dollar volume": 1827,
+   "Median price, single-family home": 222000,
+   "Days on market": null,
+   "Active Listings": 36151,
+   "Months inventory": 3.6
+ },
+ {
+   "year": 2016,
+   "month": 12,
+   "Total property sales": 7868,
+   "Total dollar volume": 2214,
+   "Median price, single-family home": 225903,
+   "Days on market": null,
+   "Active Listings": 33802,
+   "Months inventory": 3.3
+ },
+ {
+   "year": 2017,
+   "month": 1,
+   "Total property sales": 4997,
+   "Total dollar volume": 1303,
+   "Median price, single-family home": 210000,
+   "Days on market": null,
+   "Active Listings": 34958,
+   "Months inventory": 3.5
+ },
+ {
+   "year": 2017,
+   "month": 2,
+   "Total property sales": 6111,
+   "Total dollar volume": 1616,
+   "Median price, single-family home": 220000,
+   "Days on market": null,
+   "Active Listings": 35685,
+   "Months inventory": 3.5
+ },
+ {
+   "year": 2017,
+   "month": 3,
+   "Total property sales": 8495,
+   "Total dollar volume": 2278,
+   "Median price, single-family home": 227530,
+   "Days on market": null,
+   "Active Listings": 37926,
+   "Months inventory": 3.8
+ },
+ {
+   "year": 2017,
+   "month": 4,
+   "Total property sales": 8014,
+   "Total dollar volume": 2216,
+   "Median price, single-family home": 228000,
+   "Days on market": null,
+   "Active Listings": 39567,
+   "Months inventory": 4
+ },
+ {
+   "year": 2017,
+   "month": 5,
+   "Total property sales": 9744,
+   "Total dollar volume": 2790,
+   "Median price, single-family home": 235000,
+   "Days on market": null,
+   "Active Listings": 41257,
+   "Months inventory": 4.1
+ },
+ {
+   "year": 2017,
+   "month": 6,
+   "Total property sales": 9993,
+   "Total dollar volume": 2887,
+   "Median price, single-family home": 239023,
+   "Days on market": null,
+   "Active Listings": 43326,
+   "Months inventory": 4.4
+ },
+ {
+   "year": 2017,
+   "month": 7,
+   "Total property sales": 8821,
+   "Total dollar volume": 2505,
+   "Median price, single-family home": 230000,
+   "Days on market": null,
+   "Active Listings": 44299,
+   "Months inventory": 4.5
+ },
+ {
+   "year": 2017,
+   "month": 8,
+   "Total property sales": 7077,
+   "Total dollar volume": 1993,
+   "Median price, single-family home": 231700,
+   "Days on market": null,
+   "Active Listings": 42822,
+   "Months inventory": 4.4
+ },
+ {
+   "year": 2017,
+   "month": 9,
+   "Total property sales": 8150,
+   "Total dollar volume": 2281,
+   "Median price, single-family home": 232000,
+   "Days on market": null,
+   "Active Listings": 40848,
+   "Months inventory": 4.1
+ },
+ {
+   "year": 2017,
+   "month": 10,
+   "Total property sales": 7614,
+   "Total dollar volume": 2073,
+   "Median price, single-family home": 226491,
+   "Days on market": null,
+   "Active Listings": 39692,
+   "Months inventory": 3.9
+ },
+ {
+   "year": 2017,
+   "month": 11,
+   "Total property sales": 7270,
+   "Total dollar volume": 1994,
+   "Median price, single-family home": 225725,
+   "Days on market": null,
+   "Active Listings": 37914,
+   "Months inventory": 3.7
+ },
+ {
+   "year": 2017,
+   "month": 12,
+   "Total property sales": 8125,
+   "Total dollar volume": 2271,
+   "Median price, single-family home": 230000,
+   "Days on market": null,
+   "Active Listings": 33432,
+   "Months inventory": 3.2
+ },
+ {
+   "year": 2018,
+   "month": 1,
+   "Total property sales": 5468,
+   "Total dollar volume": 1400,
+   "Median price, single-family home": 218000,
+   "Days on market": null,
+   "Active Listings": 34080,
+   "Months inventory": 3.3
+ },
+ {
+   "year": 2018,
+   "month": 2,
+   "Total property sales": 6375,
+   "Total dollar volume": 1713,
+   "Median price, single-family home": 226200,
+   "Days on market": null,
+   "Active Listings": 33939,
+   "Months inventory": 3.2
+ },
+ {
+   "year": 2018,
+   "month": 3,
+   "Total property sales": 8274,
+   "Total dollar volume": 2289,
+   "Median price, single-family home": 233500,
+   "Days on market": null,
+   "Active Listings": 35004,
+   "Months inventory": 3.4
+ },
+ {
+   "year": 2018,
+   "month": 4,
+   "Total property sales": 8453,
+   "Total dollar volume": 2443,
+   "Median price, single-family home": 240000,
+   "Days on market": null,
+   "Active Listings": 36882,
+   "Months inventory": 3.6
+ },
+ {
+   "year": 2018,
+   "month": 5,
+   "Total property sales": 9721,
+   "Total dollar volume": 2814,
+   "Median price, single-family home": 243000,
+   "Days on market": null,
+   "Active Listings": 39478,
+   "Months inventory": 4
+ },
+ {
+   "year": 2018,
+   "month": 6,
+   "Total property sales": 10115,
+   "Total dollar volume": 3056,
+   "Median price, single-family home": 245000,
+   "Days on market": null,
+   "Active Listings": 40198,
+   "Months inventory": 4.1
+ },
+ {
+   "year": 2018,
+   "month": 7,
+   "Total property sales": 9559,
+   "Total dollar volume": 2785,
+   "Median price, single-family home": 243500,
+   "Days on market": null,
+   "Active Listings": 41459,
+   "Months inventory": 4.2
+ },
+ {
+   "year": 2018,
+   "month": 8,
+   "Total property sales": 9978,
+   "Total dollar volume": 2861,
+   "Median price, single-family home": 236870,
+   "Days on market": null,
+   "Active Listings": 41991,
+   "Months inventory": 4.1
+ },
+ {
+   "year": 2018,
+   "month": 9,
+   "Total property sales": 7842,
+   "Total dollar volume": 2206,
+   "Median price, single-family home": 232500,
+   "Days on market": null,
+   "Active Listings": 41560,
+   "Months inventory": 4
+ },
+ {
+   "year": 2018,
+   "month": 10,
+   "Total property sales": 8127,
+   "Total dollar volume": 2274,
+   "Median price, single-family home": 234653,
+   "Days on market": null,
+   "Active Listings": 41061,
+   "Months inventory": 3.9
+ },
+ {
+   "year": 2018,
+   "month": 11,
+   "Total property sales": 7400,
+   "Total dollar volume": 2100,
+   "Median price, single-family home": 235000,
+   "Days on market": null,
+   "Active Listings": 40530,
+   "Months inventory": 3.9
+ },
+ {
+   "year": 2018,
+   "month": 12,
+   "Total property sales": 7709,
+   "Total dollar volume": 2283,
+   "Median price, single-family home": 240000,
+   "Days on market": null,
+   "Active Listings": 37554,
+   "Months inventory": 3.5
+ },
+ {
+   "year": 2019,
+   "month": 1,
+   "Total property sales": 5011,
+   "Total dollar volume": 1343,
+   "Median price, single-family home": 222000,
+   "Days on market": null,
+   "Active Listings": 38872,
+   "Months inventory": 3.7
+ },
+ {
+   "year": 2019,
+   "month": 2,
+   "Total property sales": 6388,
+   "Total dollar volume": 1759,
+   "Median price, single-family home": 232900,
+   "Days on market": null,
+   "Active Listings": 39304,
+   "Months inventory": 3.7
+ },
+ {
+   "year": 2019,
+   "month": 3,
+   "Total property sales": 8475,
+   "Total dollar volume": 2393,
+   "Median price, single-family home": 240000,
+   "Days on market": null,
+   "Active Listings": 41127,
+   "Months inventory": 3.9
+ },
+ {
+   "year": 2019,
+   "month": 4,
+   "Total property sales": 9063,
+   "Total dollar volume": 2662,
+   "Median price, single-family home": 245000,
+   "Days on market": null,
+   "Active Listings": 42086,
+   "Months inventory": 4
+ },
+ {
+   "year": 2019,
+   "month": 5,
+   "Total property sales": 9948,
+   "Total dollar volume": 3012,
+   "Median price, single-family home": 249993,
+   "Days on market": null,
+   "Active Listings": 43624,
+   "Months inventory": 4.2
+ },
+ {
+   "year": 2019,
+   "month": 6,
+   "Total property sales": 9461,
+   "Total dollar volume": 2911,
+   "Median price, single-family home": 252000,
+   "Days on market": null,
+   "Active Listings": 45262,
+   "Months inventory": 4.4
+ },
+ {
+   "year": 2019,
+   "month": 7,
+   "Total property sales": 10478,
+   "Total dollar volume": 3108,
+   "Median price, single-family home": 250000,
+   "Days on market": null,
+   "Active Listings": 45498,
+   "Months inventory": 4.3
+ },
+ {
+   "year": 2019,
+   "month": 8,
+   "Total property sales": 10375,
+   "Total dollar volume": 3047,
+   "Median price, single-family home": 249000,
+   "Days on market": null,
+   "Active Listings": 45062,
+   "Months inventory": 4.2
+ },
+ {
+   "year": 2019,
+   "month": 9,
+   "Total property sales": 8430,
+   "Total dollar volume": 2390,
+   "Median price, single-family home": 244000,
+   "Days on market": null,
+   "Active Listings": 44172,
+   "Months inventory": 4.1
+ }
+]

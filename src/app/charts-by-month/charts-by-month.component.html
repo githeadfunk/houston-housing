@@ -1,0 +1,69 @@
+<mat-toolbar class="my-tool-bar">
+  <mat-form-field>
+    <mat-label>Filter by</mat-label>
+    <mat-select (selectionChange)="processData()"  [(ngModel)]="yearSelected">
+      <mat-option *ngFor="let opt of filterOptions" [value]="opt.value">
+        {{opt.label}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+</mat-toolbar>
+<div class="chart" *ngIf="chartReady">
+  <canvas baseChart
+            [datasets]="medianPriceChartData"
+            [labels]="lineChartLabels"
+            [options]="lineChartOptions"
+            [colors]="lineChartColors"
+            [legend]="lineChartLegend"
+            [chartType]="lineChartType"
+            [plugins]="lineChartPlugins">
+  </canvas>
+</div>
+
+<div class="chart" *ngIf="chartReady">
+  <canvas baseChart
+            [datasets]="totalDollorVolumeChartData"
+            [labels]="lineChartLabels"
+            [options]="lineChartOptions"
+            [colors]="lineChartColors"
+            [legend]="lineChartLegend"
+            [chartType]="lineChartType"
+            [plugins]="lineChartPlugins">
+  </canvas>
+</div>
+
+<div class="chart" *ngIf="chartReady">
+  <canvas baseChart
+            [datasets]="totalPropertySalesChartData"
+            [labels]="lineChartLabels"
+            [options]="lineChartOptions"
+            [colors]="lineChartColors"
+            [legend]="lineChartLegend"
+            [chartType]="lineChartType"
+            [plugins]="lineChartPlugins">
+  </canvas>
+</div>
+
+<div class="chart" *ngIf="chartReady">
+  <canvas baseChart
+            [datasets]="activeListingChartData"
+            [labels]="lineChartLabels"
+            [options]="lineChartOptions"
+            [colors]="lineChartColors"
+            [legend]="lineChartLegend"
+            [chartType]="lineChartType"
+            [plugins]="lineChartPlugins">
+  </canvas>
+</div>
+
+<div class="chart" *ngIf="chartReady">
+  <canvas baseChart
+            [datasets]="monthsInventoryChartData"
+            [labels]="lineChartLabels"
+            [options]="lineChartOptions"
+            [colors]="lineChartColors"
+            [legend]="lineChartLegend"
+            [chartType]="lineChartType"
+            [plugins]="lineChartPlugins">
+  </canvas>
+</div>

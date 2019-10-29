@@ -1,0 +1,59 @@
+<div class="chart" *ngIf="chartReady">
+  <canvas baseChart
+            [datasets]="medianPriceChartData"
+            [labels]="lineChartLabels"
+            [options]="lineChartOptions"
+            [colors]="lineChartColors"
+            [legend]="lineChartLegend"
+            [chartType]="lineChartType"
+            [plugins]="lineChartPlugins">
+  </canvas>
+</div>
+
+<div class="chart" *ngIf="chartReady">
+  <canvas baseChart
+            [datasets]="totalDollorVolumeChartData"
+            [labels]="lineChartLabels"
+            [options]="lineChartOptions"
+            [colors]="lineChartColors"
+            [legend]="lineChartLegend"
+            [chartType]="lineChartType"
+            [plugins]="lineChartPlugins">
+  </canvas>
+</div>
+
+<div class="chart" *ngIf="chartReady">
+  <canvas baseChart
+            [datasets]="totalPropertySalesChartData"
+            [labels]="lineChartLabels"
+            [options]="lineChartOptions"
+            [colors]="lineChartColors"
+            [legend]="lineChartLegend"
+            [chartType]="lineChartType"
+            [plugins]="lineChartPlugins">
+  </canvas>
+</div>
+
+<div class="chart" *ngIf="chartReady">
+  <canvas baseChart
+            [datasets]="activeListingChartData"
+            [labels]="lineChartLabels"
+            [options]="lineChartOptions"
+            [colors]="lineChartColors"
+            [legend]="lineChartLegend"
+            [chartType]="lineChartType"
+            [plugins]="lineChartPlugins">
+  </canvas>
+</div>
+
+<div class="chart" *ngIf="chartReady">
+  <canvas baseChart
+            [datasets]="monthsInventoryChartData"
+            [labels]="lineChartLabels"
+            [options]="lineChartOptions"
+            [colors]="lineChartColors"
+            [legend]="lineChartLegend"
+            [chartType]="lineChartType"
+            [plugins]="lineChartPlugins">
+  </canvas>
+</div>
