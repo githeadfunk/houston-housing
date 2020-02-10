@@ -2368,5 +2368,35 @@
    "Days on market": null,
    "Active Listings": 44172,
    "Months inventory": 4.1
+ },
+ {
+   "year": 2019,
+   "month": 10,
+   "Total property sales": 8579,
+   "Total dollar volume": 2447,
+   "Median price, single-family home": 239900,
+   "Days on market": null,
+   "Active Listings": 43468,
+   "Months inventory": 4.0
+ },
+ {
+   "year": 2019,
+   "month": 11,
+   "Total property sales": 7577,
+   "Total dollar volume": 2174,
+   "Median price, single-family home": 240900,
+   "Days on market": null,
+   "Active Listings": 42139,
+   "Months inventory": 3.8
+ },
+ {
+   "year": 2019,
+   "month": 12,
+   "Total property sales": 8879,
+   "Total dollar volume": 2698,
+   "Median price, single-family home": 251000,
+   "Days on market": null,
+   "Active Listings": 38504,
+   "Months inventory": 3.4
  }
 ]
